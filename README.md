@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ehsan, student at Columbia University majoring in Physics and Computer Science.
+  Hi, I'm Ehsan, student at Columbia University majoring in Computer Science.
   <br> 
   <br>
   💻 I love writing code and learn anythings about it
